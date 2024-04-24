@@ -1,0 +1,6 @@
+Merge Conflict Testing
+line1 
+line2
+line3
+this file belonged to master branch
+
